@@ -1,0 +1,21 @@
+{
+	"title" : "METRO VIBES | FREE SAMPLE",
+	"subtitle" : "GET THE FULL 100+ ELEMENTS ON WWW.PIXELKIT.COM",
+	"saltLake" : {
+		"title" : "Salt Lake City, Utah",
+		"date" : "Today 2:25pm",
+		"sharesTraded" : "13.5 M",
+		"marketCap" : "28.44 B",
+		"yearlyChange" : "+127.01",
+		"headerImage" : "images/chart.png"
+	},
+	"blogWidget" : {
+		"title" : "Update",
+		"desc" : "Your talent amazes! This is awesome. Excited to see the final product.",
+		"views" : 172,
+		"comments" : 34,
+		"likes" : 210,
+		"headerImage" : "images/profile-bg.png",
+		"authorImage" : "images/profile.png"
+	}
+}

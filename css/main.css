@@ -1,0 +1,129 @@
+body {
+  background-image: url('../images/bg.png');
+  background-position-x: center;
+  font-family: 'Open Sans', sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+sub {
+  font-family: 'Open Sans', sans-serif !important;
+}
+.main {
+  margin: 0 auto;
+  width: 1227px;
+  font-family: 'Open Sans', sans-serif;
+}
+.main i {
+  vertical-align: middle;
+}
+.main .title {
+  text-align: center;
+  margin-bottom: 100px;
+}
+.main .title h1,
+.main .title h5 {
+  color: white;
+}
+.main .main-grid {
+  margin: auto 90px;
+  padding: 0;
+}
+.main .mdl-grid {
+  margin-bottom: 20px;
+}
+.main .mdl-grid .widget {
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+}
+.main .mdl-grid .navMenu {
+  color: #8D8070;
+  width: 631px;
+  background-color: #fff;
+  margin-bottom: 38px;
+}
+.main .mdl-grid .navMenu ul {
+  list-style: none;
+  margin-left: -40px;
+}
+.main .mdl-grid .navMenu ul li {
+  display: inline-block;
+  margin: 0;
+  padding: 18px 5px;
+  width: 155px;
+  height: 65px;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  box-sizing: border-box;
+}
+.main .mdl-grid .navMenu ul li img {
+  margin-right: 10px;
+}
+.main .mdl-grid .navMenu ul li.selected,
+.main .mdl-grid .navMenu ul li:hover {
+  background-color: #F8F3F0;
+  border-bottom: 3px solid #4AB06E;
+}
+.main .mdl-grid .blog-widget {
+  margin-top: 15px;
+}
+.main .mdl-grid .blog-widget img.profile-pic {
+  border: 10px solid #EFECE9;
+  border-radius: 500px;
+  -webkit-border-radius: 500px;
+  -moz-border-radius: 500px;
+}
+.main .mdl-grid .blog-widget .blog-desc {
+  margin-left: 19px;
+}
+.main .mdl-grid .blog-widget .mdl-card__actions {
+  background-color: #F6F1ED;
+  padding: 12px 8px;
+  color: #B1A599;
+}
+.main .mdl-grid .blog-widget .mdl-card__actions ul {
+  list-style: none;
+  margin: 0 0 0 -40px;
+}
+.main .mdl-grid .blog-widget .mdl-card__actions ul li {
+  margin: 0;
+  display: inline-block;
+  width: 102px;
+  text-align: center;
+}
+.main .mdl-grid .salt-lake-city {
+  width: 284px;
+}
+.main .mdl-grid .salt-lake-city sub.date {
+  padding: 16px 16px 0 16px;
+}
+.main .mdl-grid .salt-lake-city .mdl-card__supporting-text {
+  padding: 0;
+}
+.main .mdl-grid .salt-lake-city .mdl-card__supporting-text .mdl-cell {
+  text-align: center;
+}
+.main .mdl-grid .salt-lake-city .mdl-card__supporting-text .mdl-cell.shares {
+  background-color: #F6F0EC;
+}
+.main .mdl-grid .salt-lake-city .mdl-card__supporting-text .mdl-cell.shares p {
+  font-size: 13px;
+}
+.main .mdl-grid .salt-lake-city .mdl-card__supporting-text .mdl-cell.shares h4 {
+  margin: 10px 0 0 0;
+  font-weight: bold;
+}
+.main .mdl-grid .salt-lake-city .mdl-card__supporting-text .mdl-cell button {
+  color: #fff;
+  background-color: #4DAF7C;
+}
+.main .mdl-grid .salt-lake-city .mdl-card__supporting-text .mdl-cell button:hover {
+  background-color: #55BC75;
+  font-weight: 600;
+}
